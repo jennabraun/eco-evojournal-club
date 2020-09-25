@@ -7,7 +7,6 @@ output: html_document
 ## Past Meetings
 
 <br>
-
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 schedule <- read.csv("past meetings.csv")
 knitr::kable(schedule)
