@@ -8,9 +8,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # York Ecology and Evolution Journal Club
+<br>
 
 ## About us
+<br>
+We're back again in the Age of Zoom for our Grad Student Eco/Evo Journal Club, and we're looking for discussion leaders! Sign up here (insert link to google form) to volunteer to lead a discussion on your topic of choice, be it desert plants, arctic lakes, or bee genetics. While we're planning to focus on ecology/evolution issues in our meetings, we're hoping to help each other see the intersections of our subdisciplines, so the options are wide open! Meetings will be every other week, on Tuesdays at noon (the perfect time for a lunch break), and never last more than an hour. Hope to see you there!
 
-## What meetings are like
+<br>
 
 ## Contact
+
+Email Malory Owen (maloryowen at gmail.com) or Jenna Braun (braunj at yorku.ca) for the zoom meeting link.

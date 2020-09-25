@@ -2,7 +2,11 @@
 title: ''
 output: html_document
 ---
+<br>
+
 # Past Meetings
+
+<br>
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 schedule <- read.csv("past meetings.csv")
