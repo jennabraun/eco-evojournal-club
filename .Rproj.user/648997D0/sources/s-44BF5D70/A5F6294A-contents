@@ -1,0 +1,11 @@
+---
+title: ''
+output: html_document
+---
+# Past Meetings
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+schedule <- read.csv("past meetings.csv")
+knitr::kable(schedule)
+```
+

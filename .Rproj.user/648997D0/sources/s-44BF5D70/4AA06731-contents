@@ -1,0 +1,13 @@
+---
+title: ''
+output: html_document
+---
+
+## Upcoming meetings!
+
+<br>
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(knitr)
+schedule <- read.csv("schedule.csv")
+knitr::kable(schedule)
+```

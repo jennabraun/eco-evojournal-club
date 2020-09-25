@@ -1,0 +1,15 @@
+name: "Eco-Evo Journal Club"
+navbar:
+  title: "York Journal Club"
+  left:
+    - text: "about"
+      href: index.html
+    - text: "schedule"
+      href: schedule.html
+    - text: "past"
+      href: past.html
+       
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
