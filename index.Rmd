@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # York Ecology and Evolution Journal Club
 <br>
 
-![This Red-winged Blackbird hopes to see you there!](~/PhD/eco-evojournal-club/blackbird.jpg)
+![This Red-winged Blackbird hopes to see you there!](blackbird.jpg)
 <br>
 
 ## Hello!
