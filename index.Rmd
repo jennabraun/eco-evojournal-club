@@ -7,23 +7,34 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# York Ecology and Evolution Journal Club
+# York Biology Journal Club
 <br>
 
-![This Red-winged Blackbird hopes to see you there!](blackbird.jpg)
+
 <br>
 
 ## Hello!
-Welcome to the landing ground for the York Eco/Evo Journal Club! Here you can find everything you'll need to be apart of the "club": A schedule for the meetings, the readings, our contact info, and the signup link so that you too can be a discussion leader! 
+The journal club committee invites you to get involved with the AGSBS Departmental Journal Club in 2021.
+<br>
 
-But what exactly IS our little journal club? Well, Jenna and Malory of the Lortie Lab saw a gap in the grad community for ecology and evolution students to chat about the latest goings-on in our disciplines. After all, the last step of the scientific method is communication! Previous journal clubs struggled to get participation levels up enough to be effective, but now, in the Age of Zoom, folks from across the department (and across the city) can meet virtually to have a fun time and talk-science!
+There will be eight monthly, one hour sessions between January and August and two student presenters per session. The sessions will be held online using Zoom, on the last Friday of each month at 12 pm. Each presenter has up to 30 minutes – present your own work with a question and answer session, or present a paper of your choice and lead a discussion – or any combination of the two! Each presenter will receive a gift card of their choice worth $20. In addition, here will be a prize raffle at the end of each session for three lucky attendees. Come out and support your fellow graduate students! <br>
 
-Meetings are every two weeks on Tuesdays at noon, the perfect time for a lunch break with friends. We'll be using Zoom to connect and will provide the link to you directly via email to prevent party crashers. We'll have one discussion leader who chooses the journal article (or blog, or twitter thread, or podcast, who knows!) for the group to read ahead of time, and that leader will help facilitate a casual conversation about... well... anything! Some people like to give a mini-talk with slides, others might want to briefly summarize--whatever mode works. Really, we'll be stretching our critical reading skills and learn a little something that is outside our immediate bubble. After all, some of the best science is interdisciplinary, so let's get creative!
+We encourage all speakers to make their talks accessible and interesting to those in all areas of biology. We welcome talks on a very wide range of topics. For example, tell us about the project you are working on, or that new ground-breaking paper within your discipline. Lead a discussion on a controversial paper, a paper addressing science as a career choice or anything else! This is a supportive space for all graduate students!
+
 <br>
 
 ## Sign up to be a Discussion Leader
-Interested in being a discussion leader this semester? [Sign up here!](https://docs.google.com/spreadsheets/d/1LAjsh1efpwk-0LDIb8iLPInKMaKl7rMImRGORUDtdoY/edit?usp=sharing) 
+
+Sign up as a presenter using this google form and send us an email if you have any questions. You do not need to have decided on a topic to sign up. [Sign up here!](
+https://docs.google.com/forms/d/e/1FAIpQLSdAdlvA4kEKg68sLV6CCKkBobYLIipfGbs_FrUJab_jkkqqiQ/viewform?usp=sf_link)
+
 <br>
 
-## Contact us to get the Zoom Link
-Email Malory Owen (maloryowen@ gmail.com) or Jenna Braun (braunj@ yorku.ca) for the zoom meeting link, or fill out your contact info [here!](https://docs.google.com/spreadsheets/d/1LAjsh1efpwk-0LDIb8iLPInKMaKl7rMImRGORUDtdoY/edit?usp=sharing)
+Zoom links will be sent out via the Biograds listserve prior to the event. 
+
+### Committee members
+* Jenna Braun
+* Malory Owen
+* Cindy Tran
+* Marjan Moallem
+* David Miller
