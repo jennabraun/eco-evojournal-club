@@ -1,16 +1,11 @@
 ---
-title: 'J'
-output:
-  html_document: default
-  pdf_document: default
+title: 'York Biology Journal Club'
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-# York Biology Journal Club
-<br>
 
 ![image](template1.jpg)
 <br>
@@ -29,8 +24,6 @@ We encourage all speakers to make their talks accessible and interesting to thos
 
 Sign up as a presenter using this google form and send us an email if you have any questions. You do not need to have decided on a topic to sign up. [Sign up here!](
 https://docs.google.com/forms/d/e/1FAIpQLSdAdlvA4kEKg68sLV6CCKkBobYLIipfGbs_FrUJab_jkkqqiQ/viewform?usp=sf_link)
-
-<br>
 
 Zoom links will be sent out via the Biograds listserve prior to the event. 
 
